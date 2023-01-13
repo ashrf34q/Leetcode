@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ee208c0-65f1-4456-afaf-8f1239e886c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtoI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadInherit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CIS421/LinkedListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CIS421/TrappingRain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CIS421/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CIS421/WaterContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mergeTwo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GStphOY2ZyMUYUmJIqZQHvAp09" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="AtoI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AtoI" />
+      <module name="MultiThreading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
+      <module name="MultiThreading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.CIS421.LinkedListImpl" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.CIS421.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrappingRain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.CIS421.TrappingRain" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.CIS421.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="intToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intToRoman" />
+      <module name="MultiThreading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TrappingRain" />
+        <item itemvalue="Application.AtoI" />
+        <item itemvalue="Application.LinkedListImpl" />
+        <item itemvalue="Application.intToRoman" />
+        <item itemvalue="Application.InsertionSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ee208c0-65f1-4456-afaf-8f1239e886c4" name="Changes" comment="" />
+      <created>1666393998291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666393998291</updated>
+      <workItem from="1666393999796" duration="2626000" />
+      <workItem from="1666397067610" duration="264000" />
+      <workItem from="1666647526492" duration="593000" />
+      <workItem from="1666747437821" duration="1181000" />
+      <workItem from="1666834142036" duration="38000" />
+      <workItem from="1666836736440" duration="969000" />
+      <workItem from="1671835596923" duration="9000" />
+      <workItem from="1671835631910" duration="7208000" />
+      <workItem from="1672183696234" duration="2903000" />
+      <workItem from="1672265303646" duration="3328000" />
+      <workItem from="1672346947830" duration="7117000" />
+      <workItem from="1672878040712" duration="2160000" />
+      <workItem from="1672883648373" duration="256000" />
+      <workItem from="1673306643829" duration="5175000" />
+      <workItem from="1673315223665" duration="448000" />
+      <workItem from="1673380460253" duration="8989000" />
+      <workItem from="1673481202333" duration="230000" />
+      <workItem from="1673489303214" duration="2930000" />
+      <workItem from="1673567386998" duration="5100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
