@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ee208c0-65f1-4456-afaf-8f1239e886c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiThreading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtoI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultithreadInherit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/CIS421/LinkedListImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/CIS421/TrappingRain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/CIS421/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/CIS421/WaterContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mergeTwo.java" afterDir="false" />
+    <list default="true" id="1ee208c0-65f1-4456-afaf-8f1239e886c4" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/bridge/BridgePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/AlmostPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/BackspaceString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/LongestSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,19 +51,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
+    <configuration name="BackspaceString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.BackspaceString" />
       <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.CIS421.LinkedListImpl" />
+    <configuration name="BridgePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bridge.BridgePattern" />
       <module name="MultiThreading" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.CIS421.*" />
+          <option name="PATTERN" value="bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.LongestSub" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,20 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="intToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intToRoman" />
-      <module name="MultiThreading" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestSub" />
+        <item itemvalue="Application.BackspaceString" />
+        <item itemvalue="Application.BridgePattern" />
         <item itemvalue="Application.TrappingRain" />
         <item itemvalue="Application.AtoI" />
-        <item itemvalue="Application.LinkedListImpl" />
-        <item itemvalue="Application.intToRoman" />
-        <item itemvalue="Application.InsertionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +140,24 @@
       <workItem from="1673481202333" duration="230000" />
       <workItem from="1673489303214" duration="2930000" />
       <workItem from="1673567386998" duration="5100000" />
+      <workItem from="1673576315370" duration="315000" />
+      <workItem from="1673630147613" duration="1426000" />
+      <workItem from="1673656505118" duration="2599000" />
+      <workItem from="1673891152503" duration="619000" />
+      <workItem from="1673917821925" duration="4784000" />
+      <workItem from="1674009167181" duration="4799000" />
+      <workItem from="1674179244016" duration="2432000" />
+      <workItem from="1674268941585" duration="2082000" />
+      <workItem from="1674607345506" duration="4676000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1673576549480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673576549480</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,5 +173,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
